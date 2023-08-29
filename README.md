@@ -3,7 +3,7 @@
 - 🌱 I’m currently React and Node.js
 - 💞️ I’m looking to collaborate on FrontEnd companies
 - 📫 How to reach me GitHub
-- 
+- Ravi 19189 Teja
 
 <!---
 TamadaRaviTeja/TamadaRaviTeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
