@@ -4,7 +4,7 @@
 
 I'm Tamada Ravi Teja from India , and i do content on Design and Development . I Really enjoy learning languages and frameworks like React and Angular  , as well as work in wordpress. I also enjoy ui design in general 
 
-Skills: HTML / CSS/ JAVASCRIPT / PHP / NODEJS/VUE JS / REACT / JS / 
+Skills: HTML / CSS/ JAVASCRIPT / PHP / NODEJS / VUE JS / REACT / JS / 
 
 - 👯 I’m looking to collaborate on Web Development 
 - 📫 How to reach me: Portfolio 
