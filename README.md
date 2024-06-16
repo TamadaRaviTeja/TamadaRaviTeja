@@ -1,6 +1,6 @@
 ### Hi there 👋, Tamada Ravi Teja 
 #### Design and Development 
-![Design and Development ](https://x.com/ravi_19189_teja/header_photo)
+![Design and Development ](https://pbs.twimg.com/media/GQN3CLAbgAA6Hog?format=jpg&name=900x900)
 
 I'm Tamada Ravi Teja from India , and i do content on Design and Development . I Really enjoy learning languages and frameworks like React and Angular  , as well as work in wordpress. I also enjoy ui design in general 
 
